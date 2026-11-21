@@ -1,0 +1,1759 @@
+{
+ "settings": {
+  "warehouseId": 507001,
+  "safetyStock": 1,
+  "percent": 100
+ },
+ "meta": {
+  "склад": "fd2a3ff3-369b-11e5-b972-74d02b7dfd8c",
+  "организация": "6e3445bb-b5b8-11e4-8355-74d02b7dfd8c",
+  "завершен": "c1a94d82-69e5-11e6-9be3-e0cb4ed5f713"
+ },
+ "cards": {
+  "total": 71,
+  "sizes": 74,
+  "byArticle": 65,
+  "byBarcode": 5,
+  "notMapped": 4,
+  "multiSizeVendorCode": "3958",
+  "restrictedChrtId": 31740000
+ },
+ "orders": {
+  "newTotal": 25,
+  "created": 24,
+  "byArticle": 22,
+  "byBarcode": 2,
+  "notFound": 1,
+  "notFoundId": 3100000058,
+  "zeroOrderId": 3100000061,
+  "bynOrderId": 3100000064,
+  "bynPriceRub": 690.16,
+  "sampleId": 3100000013,
+  "sampleUuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+  "samplePriceRub": 165.28,
+  "sampleComment": "Упакуйте в плёнку, пожалуйста",
+  "sumRub": 18279.19,
+  "noReserve": 0,
+  "periodTotal": 41,
+  "cancelBySeller": 3100000016,
+  "cancelByClient": 3100000019,
+  "cancelUuids": [
+   "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+   "8b476439-36a6-11e5-b972-74d02b7dfd8c"
+  ],
+  "reserveBy": [
+   {
+    "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 2
+   },
+   {
+    "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 2
+   },
+   {
+    "uuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476439-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476416-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47641c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643e-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47643f-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "6126cf4b-75e2-11e8-8780-b06ebf31a92f",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476440-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476441-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476422-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b476423-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "qty": 1
+   },
+   {
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b476472-36a6-11e5-b972-74d02b7dfd8c",
+    "qty": 1
+   }
+  ],
+  "periodFrom": "2026-11-10",
+  "periodTo": "2026-11-21"
+ },
+ "chars": {
+  "goodUuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+  "vendorCode": "3004",
+  "orderId": 3100000073,
+  "orderCharUuid": "8b476472-36a6-11e5-b972-74d02b7dfd8c",
+  "rows": [
+   {
+    "chrtId": 31750000,
+    "barcode": "2041000000698",
+    "charUuid": "8b476470-36a6-11e5-b972-74d02b7dfd8c",
+    "charName": "S",
+    "free": 1,
+    "want": 0
+   },
+   {
+    "chrtId": 31750013,
+    "barcode": "2041000000704",
+    "charUuid": "8b47646f-36a6-11e5-b972-74d02b7dfd8c",
+    "charName": "L",
+    "free": 7,
+    "want": 6
+   },
+   {
+    "chrtId": 31750026,
+    "barcode": "2041000000711",
+    "charUuid": "8b476472-36a6-11e5-b972-74d02b7dfd8c",
+    "charName": "XL",
+    "free": 38,
+    "want": 37
+   }
+  ]
+ },
+ "volume": {
+  "generated": 300,
+  "createDefault": 20,
+  "noReserveDefault": 1,
+  "noReserveFull": 26
+ },
+ "tokens": {
+  "token": "eyJhbGciOiJFUzI1NiJ9.eyJzY29wZSI6Im1vY2sifQ.bW9jay1zaWduYXR1cmU",
+  "contentOnlyToken": "eyJhbGciOiJFUzI1NiJ9.eyJzY29wZSI6ImNvbnRlbnQifQ.Y29udGVudC1vbmx5"
+ },
+ "stocksBefore": {
+  "mapped": 70,
+  "changed": 50,
+  "unchanged": 20,
+  "restrictedChanged": 1,
+  "totalWant": 1620,
+  "rows": [
+   {
+    "chrtId": 31700000,
+    "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1481",
+    "how": "артикул",
+    "free": 19,
+    "want": 18,
+    "onWb": 18,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700013,
+    "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1482",
+    "how": "артикул",
+    "free": 48,
+    "want": 47,
+    "onWb": 52,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700026,
+    "uuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1483",
+    "how": "артикул",
+    "free": 38,
+    "want": 37,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700039,
+    "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1484",
+    "how": "артикул",
+    "free": 43,
+    "want": 42,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700052,
+    "uuid": "8b476439-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1485",
+    "how": "артикул",
+    "free": 49,
+    "want": 48,
+    "onWb": 48,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700065,
+    "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1486",
+    "how": "артикул",
+    "free": 48,
+    "want": 47,
+    "onWb": 52,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700078,
+    "uuid": "8b47643b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1487",
+    "how": "артикул",
+    "free": 12,
+    "want": 11,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700091,
+    "uuid": "8b476416-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2740",
+    "how": "артикул",
+    "free": 5,
+    "want": 4,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700104,
+    "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2741",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 3,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700117,
+    "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2744",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700130,
+    "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2745",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700143,
+    "uuid": "8b47641c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2746",
+    "how": "артикул",
+    "free": 1,
+    "want": 0,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700156,
+    "uuid": "8b47643c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3523",
+    "how": "артикул",
+    "free": 34,
+    "want": 33,
+    "onWb": 33,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700169,
+    "uuid": "8b47643d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3532",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 45,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700182,
+    "uuid": "8b47643e-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3533",
+    "how": "артикул",
+    "free": 23,
+    "want": 22,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700195,
+    "uuid": "8b47643f-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3534",
+    "how": "артикул",
+    "free": 14,
+    "want": 13,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700208,
+    "uuid": "8b476440-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3535",
+    "how": "артикул",
+    "free": 30,
+    "want": 29,
+    "onWb": 29,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700221,
+    "uuid": "8b476441-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3536",
+    "how": "артикул",
+    "free": 40,
+    "want": 39,
+    "onWb": 44,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700234,
+    "uuid": "8b476442-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3537",
+    "how": "артикул",
+    "free": 42,
+    "want": 41,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700247,
+    "uuid": "8b476443-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3538",
+    "how": "артикул",
+    "free": 46,
+    "want": 45,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700260,
+    "uuid": "8b476444-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3539",
+    "how": "артикул",
+    "free": 43,
+    "want": 42,
+    "onWb": 42,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700273,
+    "uuid": "8b476445-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3540",
+    "how": "артикул",
+    "free": 33,
+    "want": 32,
+    "onWb": 37,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700286,
+    "uuid": "8b476446-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3541",
+    "how": "артикул",
+    "free": 20,
+    "want": 19,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700299,
+    "uuid": "8b476447-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3542",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700312,
+    "uuid": "8b476448-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3543",
+    "how": "артикул",
+    "free": 48,
+    "want": 47,
+    "onWb": 47,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700325,
+    "uuid": "8b476449-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3544",
+    "how": "артикул",
+    "free": 32,
+    "want": 31,
+    "onWb": 36,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700338,
+    "uuid": "8b47644a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3545",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700351,
+    "uuid": "8b47644b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3546",
+    "how": "артикул",
+    "free": 49,
+    "want": 48,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700364,
+    "uuid": "8b47644c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3547",
+    "how": "артикул",
+    "free": 46,
+    "want": 45,
+    "onWb": 45,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700377,
+    "uuid": "8b47644d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3548",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700390,
+    "uuid": "8b47644e-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3549",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700403,
+    "uuid": "8b47644f-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3550",
+    "how": "артикул",
+    "free": 40,
+    "want": 39,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700416,
+    "uuid": "8b476450-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3551",
+    "how": "артикул",
+    "free": 43,
+    "want": 42,
+    "onWb": 42,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700429,
+    "uuid": "8b476451-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3552",
+    "how": "артикул",
+    "free": 27,
+    "want": 26,
+    "onWb": 31,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700442,
+    "uuid": "8b476452-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3553",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700455,
+    "uuid": "8b476453-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3554",
+    "how": "артикул",
+    "free": 2,
+    "want": 1,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700468,
+    "uuid": "8b476455-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3556",
+    "how": "артикул",
+    "free": 8,
+    "want": 7,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700481,
+    "uuid": "8b476456-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3557",
+    "how": "артикул",
+    "free": 5,
+    "want": 4,
+    "onWb": 9,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700494,
+    "uuid": "8b476457-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3558",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700507,
+    "uuid": "8b476458-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3559",
+    "how": "артикул",
+    "free": 5,
+    "want": 4,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700520,
+    "uuid": "ef00fee2-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3612",
+    "how": "артикул",
+    "free": 2,
+    "want": 1,
+    "onWb": 1,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700533,
+    "uuid": "ef00fee3-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3613",
+    "how": "артикул",
+    "free": 25,
+    "want": 24,
+    "onWb": 29,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700546,
+    "uuid": "ef00fee5-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3615",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700559,
+    "uuid": "ef00fee6-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3616",
+    "how": "артикул",
+    "free": 20,
+    "want": 19,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700572,
+    "uuid": "ef00feea-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3620",
+    "how": "артикул",
+    "free": 33,
+    "want": 32,
+    "onWb": 32,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700585,
+    "uuid": "ef00feeb-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3621",
+    "how": "артикул",
+    "free": 29,
+    "want": 28,
+    "onWb": 33,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700598,
+    "uuid": "ef00feec-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3629",
+    "how": "артикул",
+    "free": 38,
+    "want": 37,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700611,
+    "uuid": "ef00feed-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3630",
+    "how": "артикул",
+    "free": 31,
+    "want": 30,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700624,
+    "uuid": "ef00feee-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3634",
+    "how": "артикул",
+    "free": 22,
+    "want": 21,
+    "onWb": 21,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700637,
+    "uuid": "ef00feef-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3635",
+    "how": "артикул",
+    "free": 12,
+    "want": 11,
+    "onWb": 16,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700650,
+    "uuid": "ef00fef0-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3636",
+    "how": "артикул",
+    "free": 38,
+    "want": 37,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700663,
+    "uuid": "ef00fef2-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3638",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700676,
+    "uuid": "ef00fef3-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3639",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 2,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700689,
+    "uuid": "ef00fef4-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3640",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700702,
+    "uuid": "ef00fef5-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3641",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700715,
+    "uuid": "ef00fef6-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3642",
+    "how": "артикул",
+    "free": 6,
+    "want": 5,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700728,
+    "uuid": "ef00fef7-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3643",
+    "how": "артикул",
+    "free": 14,
+    "want": 13,
+    "onWb": 13,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700741,
+    "uuid": "ef00fef8-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3644",
+    "how": "артикул",
+    "free": 28,
+    "want": 27,
+    "onWb": 32,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700754,
+    "uuid": "ef00fef9-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3645",
+    "how": "артикул",
+    "free": 35,
+    "want": 34,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700767,
+    "uuid": "ef00fefa-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3646",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700780,
+    "uuid": "ef00fefd-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3649",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700793,
+    "uuid": "ef00fefe-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3651",
+    "how": "артикул",
+    "free": 42,
+    "want": 41,
+    "onWb": 46,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700806,
+    "uuid": "ef00feff-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3652",
+    "how": "артикул",
+    "free": 27,
+    "want": 26,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700819,
+    "uuid": "8b476421-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3957",
+    "how": "артикул",
+    "free": 16,
+    "want": 15,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31710000,
+    "uuid": "6126cf4b-75e2-11e8-8780-b06ebf31a92f",
+    "charUuid": "",
+    "article": "WB-СЕРТИФИКАТ-1",
+    "how": "штрихкод",
+    "free": 89,
+    "want": 88,
+    "onWb": 88,
+    "restricted": false
+   },
+   {
+    "chrtId": 31710013,
+    "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "WB-2741-2",
+    "how": "штрихкод",
+    "free": 4,
+    "want": 3,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31740000,
+    "uuid": "8b476423-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3959",
+    "how": "артикул",
+    "free": 15,
+    "want": 14,
+    "onWb": 0,
+    "restricted": true
+   },
+   {
+    "chrtId": 31750000,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b476470-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 1,
+    "want": 0,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31750013,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b47646f-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 7,
+    "want": 6,
+    "onWb": 6,
+    "restricted": false
+   },
+   {
+    "chrtId": 31750026,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b476472-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 38,
+    "want": 37,
+    "onWb": 42,
+    "restricted": false
+   }
+  ]
+ },
+ "stocksAfter": {
+  "mapped": 70,
+  "changed": 56,
+  "unchanged": 14,
+  "restrictedChanged": 1,
+  "totalWant": 1597,
+  "rows": [
+   {
+    "chrtId": 31700000,
+    "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1481",
+    "how": "артикул",
+    "free": 17,
+    "want": 16,
+    "onWb": 18,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700013,
+    "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1482",
+    "how": "артикул",
+    "free": 46,
+    "want": 45,
+    "onWb": 52,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700026,
+    "uuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1483",
+    "how": "артикул",
+    "free": 37,
+    "want": 36,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700039,
+    "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1484",
+    "how": "артикул",
+    "free": 42,
+    "want": 41,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700052,
+    "uuid": "8b476439-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1485",
+    "how": "артикул",
+    "free": 48,
+    "want": 47,
+    "onWb": 48,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700065,
+    "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1486",
+    "how": "артикул",
+    "free": 47,
+    "want": 46,
+    "onWb": 52,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700078,
+    "uuid": "8b47643b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "1487",
+    "how": "артикул",
+    "free": 11,
+    "want": 10,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700091,
+    "uuid": "8b476416-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2740",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700104,
+    "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2741",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 3,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700117,
+    "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2744",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700130,
+    "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2745",
+    "how": "артикул",
+    "free": 2,
+    "want": 1,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700143,
+    "uuid": "8b47641c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "2746",
+    "how": "артикул",
+    "free": 0,
+    "want": 0,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700156,
+    "uuid": "8b47643c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3523",
+    "how": "артикул",
+    "free": 33,
+    "want": 32,
+    "onWb": 33,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700169,
+    "uuid": "8b47643d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3532",
+    "how": "артикул",
+    "free": 40,
+    "want": 39,
+    "onWb": 45,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700182,
+    "uuid": "8b47643e-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3533",
+    "how": "артикул",
+    "free": 22,
+    "want": 21,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700195,
+    "uuid": "8b47643f-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3534",
+    "how": "артикул",
+    "free": 13,
+    "want": 12,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700208,
+    "uuid": "8b476440-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3535",
+    "how": "артикул",
+    "free": 29,
+    "want": 28,
+    "onWb": 29,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700221,
+    "uuid": "8b476441-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3536",
+    "how": "артикул",
+    "free": 39,
+    "want": 38,
+    "onWb": 44,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700234,
+    "uuid": "8b476442-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3537",
+    "how": "артикул",
+    "free": 42,
+    "want": 41,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700247,
+    "uuid": "8b476443-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3538",
+    "how": "артикул",
+    "free": 46,
+    "want": 45,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700260,
+    "uuid": "8b476444-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3539",
+    "how": "артикул",
+    "free": 43,
+    "want": 42,
+    "onWb": 42,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700273,
+    "uuid": "8b476445-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3540",
+    "how": "артикул",
+    "free": 33,
+    "want": 32,
+    "onWb": 37,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700286,
+    "uuid": "8b476446-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3541",
+    "how": "артикул",
+    "free": 20,
+    "want": 19,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700299,
+    "uuid": "8b476447-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3542",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700312,
+    "uuid": "8b476448-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3543",
+    "how": "артикул",
+    "free": 48,
+    "want": 47,
+    "onWb": 47,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700325,
+    "uuid": "8b476449-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3544",
+    "how": "артикул",
+    "free": 32,
+    "want": 31,
+    "onWb": 36,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700338,
+    "uuid": "8b47644a-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3545",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700351,
+    "uuid": "8b47644b-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3546",
+    "how": "артикул",
+    "free": 49,
+    "want": 48,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700364,
+    "uuid": "8b47644c-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3547",
+    "how": "артикул",
+    "free": 46,
+    "want": 45,
+    "onWb": 45,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700377,
+    "uuid": "8b47644d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3548",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700390,
+    "uuid": "8b47644e-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3549",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700403,
+    "uuid": "8b47644f-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3550",
+    "how": "артикул",
+    "free": 40,
+    "want": 39,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700416,
+    "uuid": "8b476450-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3551",
+    "how": "артикул",
+    "free": 43,
+    "want": 42,
+    "onWb": 42,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700429,
+    "uuid": "8b476451-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3552",
+    "how": "артикул",
+    "free": 27,
+    "want": 26,
+    "onWb": 31,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700442,
+    "uuid": "8b476452-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3553",
+    "how": "артикул",
+    "free": 41,
+    "want": 40,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700455,
+    "uuid": "8b476453-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3554",
+    "how": "артикул",
+    "free": 2,
+    "want": 1,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700468,
+    "uuid": "8b476455-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3556",
+    "how": "артикул",
+    "free": 8,
+    "want": 7,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700481,
+    "uuid": "8b476456-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3557",
+    "how": "артикул",
+    "free": 5,
+    "want": 4,
+    "onWb": 9,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700494,
+    "uuid": "8b476457-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3558",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700507,
+    "uuid": "8b476458-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3559",
+    "how": "артикул",
+    "free": 5,
+    "want": 4,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700520,
+    "uuid": "ef00fee2-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3612",
+    "how": "артикул",
+    "free": 2,
+    "want": 1,
+    "onWb": 1,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700533,
+    "uuid": "ef00fee3-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3613",
+    "how": "артикул",
+    "free": 25,
+    "want": 24,
+    "onWb": 29,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700546,
+    "uuid": "ef00fee5-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3615",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700559,
+    "uuid": "ef00fee6-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3616",
+    "how": "артикул",
+    "free": 20,
+    "want": 19,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700572,
+    "uuid": "ef00feea-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3620",
+    "how": "артикул",
+    "free": 33,
+    "want": 32,
+    "onWb": 32,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700585,
+    "uuid": "ef00feeb-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3621",
+    "how": "артикул",
+    "free": 29,
+    "want": 28,
+    "onWb": 33,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700598,
+    "uuid": "ef00feec-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3629",
+    "how": "артикул",
+    "free": 38,
+    "want": 37,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700611,
+    "uuid": "ef00feed-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3630",
+    "how": "артикул",
+    "free": 31,
+    "want": 30,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700624,
+    "uuid": "ef00feee-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3634",
+    "how": "артикул",
+    "free": 22,
+    "want": 21,
+    "onWb": 21,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700637,
+    "uuid": "ef00feef-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3635",
+    "how": "артикул",
+    "free": 12,
+    "want": 11,
+    "onWb": 16,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700650,
+    "uuid": "ef00fef0-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3636",
+    "how": "артикул",
+    "free": 38,
+    "want": 37,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700663,
+    "uuid": "ef00fef2-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3638",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700676,
+    "uuid": "ef00fef3-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3639",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 2,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700689,
+    "uuid": "ef00fef4-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3640",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 7,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700702,
+    "uuid": "ef00fef5-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3641",
+    "how": "артикул",
+    "free": 4,
+    "want": 3,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700715,
+    "uuid": "ef00fef6-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3642",
+    "how": "артикул",
+    "free": 6,
+    "want": 5,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700728,
+    "uuid": "ef00fef7-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3643",
+    "how": "артикул",
+    "free": 14,
+    "want": 13,
+    "onWb": 13,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700741,
+    "uuid": "ef00fef8-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3644",
+    "how": "артикул",
+    "free": 28,
+    "want": 27,
+    "onWb": 32,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700754,
+    "uuid": "ef00fef9-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3645",
+    "how": "артикул",
+    "free": 35,
+    "want": 34,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700767,
+    "uuid": "ef00fefa-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3646",
+    "how": "артикул",
+    "free": 3,
+    "want": 2,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700780,
+    "uuid": "ef00fefd-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3649",
+    "how": "артикул",
+    "free": 9,
+    "want": 8,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700793,
+    "uuid": "ef00fefe-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3651",
+    "how": "артикул",
+    "free": 42,
+    "want": 41,
+    "onWb": 46,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700806,
+    "uuid": "ef00feff-36a2-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3652",
+    "how": "артикул",
+    "free": 27,
+    "want": 26,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31700819,
+    "uuid": "8b476421-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3957",
+    "how": "артикул",
+    "free": 16,
+    "want": 15,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31710000,
+    "uuid": "6126cf4b-75e2-11e8-8780-b06ebf31a92f",
+    "charUuid": "",
+    "article": "WB-СЕРТИФИКАТ-1",
+    "how": "штрихкод",
+    "free": 88,
+    "want": 87,
+    "onWb": 88,
+    "restricted": false
+   },
+   {
+    "chrtId": 31710013,
+    "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "WB-2741-2",
+    "how": "штрихкод",
+    "free": 3,
+    "want": 2,
+    "onWb": 8,
+    "restricted": false
+   },
+   {
+    "chrtId": 31740000,
+    "uuid": "8b476423-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "",
+    "article": "3959",
+    "how": "артикул",
+    "free": 14,
+    "want": 13,
+    "onWb": 0,
+    "restricted": true
+   },
+   {
+    "chrtId": 31750000,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b476470-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 1,
+    "want": 0,
+    "onWb": 0,
+    "restricted": false
+   },
+   {
+    "chrtId": 31750013,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b47646f-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 7,
+    "want": 6,
+    "onWb": 6,
+    "restricted": false
+   },
+   {
+    "chrtId": 31750026,
+    "uuid": "8b47641d-36a6-11e5-b972-74d02b7dfd8c",
+    "charUuid": "8b476472-36a6-11e5-b972-74d02b7dfd8c",
+    "article": "3004",
+    "how": "штрихкод",
+    "free": 37,
+    "want": 36,
+    "onWb": 42,
+    "restricted": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,4 @@
+tests/last_run.txt
+tests/batch_run.txt
+*.build.log
+*.timeout.*.png

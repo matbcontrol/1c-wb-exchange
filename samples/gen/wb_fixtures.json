@@ -1,0 +1,4403 @@
+{
+ "token": "eyJhbGciOiJFUzI1NiJ9.eyJzY29wZSI6Im1vY2sifQ.bW9jay1zaWduYXR1cmU",
+ "contentOnlyToken": "eyJhbGciOiJFUzI1NiJ9.eyJzY29wZSI6ImNvbnRlbnQifQ.Y29udGVudC1vbmx5",
+ "warehouses": [
+  {
+   "name": "Склад продавца, Подольск (FBS)",
+   "officeId": 15,
+   "id": 507001,
+   "cargoType": 1,
+   "deliveryType": 1,
+   "isDeleting": false,
+   "isProcessing": false
+  },
+  {
+   "name": "Склад продавца, самовывоз (DBS)",
+   "officeId": 15,
+   "id": 507002,
+   "cargoType": 1,
+   "deliveryType": 2,
+   "isDeleting": false,
+   "isProcessing": false
+  }
+ ],
+ "cards": [
+  {
+   "nmID": 145000000,
+   "imtID": 98000000,
+   "nmUUID": "01bda0b1-dfdc-fdc9-6dae-c11d4ae2f9d2",
+   "subjectID": 3000,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1481",
+   "brand": "Хозтовары",
+   "title": "Мешки хозяйственные двухслойные (до 70кг) (\"AVIKOMP\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700000,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000001"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:00:00.000Z"
+  },
+  {
+   "nmID": 145000017,
+   "imtID": 98000005,
+   "nmUUID": "01bda0b1-17d1-2591-14ff-c72948b69ff0",
+   "subjectID": 3001,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1482",
+   "brand": "Хозтовары",
+   "title": "Мешки хозяйственные двухслойные (до 100кг) (\"AVIKOMP\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700013,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000018"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:01:01.000Z"
+  },
+  {
+   "nmID": 145000034,
+   "imtID": 98000010,
+   "nmUUID": "01bda0b1-618b-a18d-c70c-34ebb7b7904e",
+   "subjectID": 3002,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1483",
+   "brand": "Хозтовары",
+   "title": "Мешки хозяйственные ПРОФИ черные (\"AVIKOMP\"), 160л/10шт",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700026,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000025"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:02:02.000Z"
+  },
+  {
+   "nmID": 145000051,
+   "imtID": 98000015,
+   "nmUUID": "01bda0b1-67cf-0a6b-bc02-4cd1cb2e1b29",
+   "subjectID": 3003,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1484",
+   "brand": "Хозтовары",
+   "title": "Мешки хозяйственные ПРОФИ черные (\"AVIKOMP\"), 220л/10шт",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700039,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000032"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:03:03.000Z"
+  },
+  {
+   "nmID": 145000068,
+   "imtID": 98000020,
+   "nmUUID": "01bda0b1-6bb6-73aa-369b-c24eeda7b031",
+   "subjectID": 3004,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1485",
+   "brand": "Хозтовары",
+   "title": "Мешки для мусора ПРОФИ в рулоне \"Концепция быта\", 120л/10шт",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700052,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000049"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:04:04.000Z"
+  },
+  {
+   "nmID": 145000085,
+   "imtID": 98000025,
+   "nmUUID": "01bda0b1-dda0-02f6-2715-6b28864fc35b",
+   "subjectID": 3005,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1486",
+   "brand": "Хозтовары",
+   "title": "Мешки для мусора ПРОФИ в рулоне \"Концепция быта\", 180л/10шт",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700065,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000056"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:05:05.000Z"
+  },
+  {
+   "nmID": 145000102,
+   "imtID": 98000030,
+   "nmUUID": "01bda0b1-e708-f71f-eff7-29c79deef02f",
+   "subjectID": 3006,
+   "subjectName": "Мешки для мусора, пакеты хозяйственные",
+   "vendorCode": "1487",
+   "brand": "Хозтовары",
+   "title": "Мешки для мусора ПРОФИ в рулоне \"Концепция быта\"",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700078,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000063"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:06:06.000Z"
+  },
+  {
+   "nmID": 145000119,
+   "imtID": 98000035,
+   "nmUUID": "01bda0b1-f31e-124f-9a2b-a29793733ac2",
+   "subjectID": 3000,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "2740",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  НИКА 9 (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700091,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000070"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:07:07.000Z"
+  },
+  {
+   "nmID": 145000136,
+   "imtID": 98000040,
+   "nmUUID": "01bda0b1-66fe-dff5-3249-9b3ae573deb1",
+   "subjectID": 3001,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "2741",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  НИКА 10+ (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700104,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000087"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:08:08.000Z"
+  },
+  {
+   "nmID": 145000153,
+   "imtID": 98000045,
+   "nmUUID": "01bda0b1-e25e-c195-2406-eb7b06b21f03",
+   "subjectID": 3002,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "2744",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  НИКА 12 (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700117,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000094"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:09:09.000Z"
+  },
+  {
+   "nmID": 145000170,
+   "imtID": 98000050,
+   "nmUUID": "01bda0b1-21b8-f915-22e3-03570d31da7f",
+   "subjectID": 3003,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "2745",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  НИКА ГРАНД (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700130,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000100"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:10:10.000Z"
+  },
+  {
+   "nmID": 145000187,
+   "imtID": 98000055,
+   "nmUUID": "01bda0b1-5bbf-183a-bfee-e85abd30056f",
+   "subjectID": 3004,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "2746",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  ЭЛЬЗА ДЕ ЛЮКС (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700143,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000117"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:11:11.000Z"
+  },
+  {
+   "nmID": 145000204,
+   "imtID": 98000060,
+   "nmUUID": "01bda0b1-9d4f-2886-fc28-cf8ec8f367bc",
+   "subjectID": 3005,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3523",
+   "brand": "Хозтовары",
+   "title": "Веник с палкой (Сербия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700156,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000124"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:12:12.000Z"
+  },
+  {
+   "nmID": 145000221,
+   "imtID": 98000065,
+   "nmUUID": "01bda0b1-b5e2-ccd4-7718-db2395ce1779",
+   "subjectID": 3006,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3532",
+   "brand": "Хозтовары",
+   "title": "Палка винтовая металлическая (Чехия), 120 см",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700169,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000131"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:13:13.000Z"
+  },
+  {
+   "nmID": 145000238,
+   "imtID": 98000070,
+   "nmUUID": "01bda0b1-f645-b244-e615-5eec37709dd6",
+   "subjectID": 3000,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3533",
+   "brand": "Хозтовары",
+   "title": "Палка винтовая металлическая (Чехия), 130 см",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700182,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000148"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:14:14.000Z"
+  },
+  {
+   "nmID": 145000255,
+   "imtID": 98000075,
+   "nmUUID": "01bda0b1-3a27-3128-ba89-80ef99265e24",
+   "subjectID": 3001,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3534",
+   "brand": "Хозтовары",
+   "title": "Палка металлическая винтовая имитация дерева (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700195,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000155"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:15:15.000Z"
+  },
+  {
+   "nmID": 145000272,
+   "imtID": 98000080,
+   "nmUUID": "01bda0b1-ca06-eef6-ad37-58afd33ec182",
+   "subjectID": 3002,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3535",
+   "brand": "Хозтовары",
+   "title": "Палка металлическая винтовая 2010 (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700208,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000162"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:16:16.000Z"
+  },
+  {
+   "nmID": 145000289,
+   "imtID": 98000085,
+   "nmUUID": "01bda0b1-17f1-5414-894e-5d6121fba046",
+   "subjectID": 3003,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3536",
+   "brand": "Хозтовары",
+   "title": "Палка телескопическая (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700221,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000179"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:17:17.000Z"
+  },
+  {
+   "nmID": 145000306,
+   "imtID": 98000090,
+   "nmUUID": "01bda0b1-b9fa-a223-f373-cf29d106c3a3",
+   "subjectID": 3004,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3537",
+   "brand": "Хозтовары",
+   "title": "Сметка 5206/611, деревянное основание (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700234,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000186"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:18:18.000Z"
+  },
+  {
+   "nmID": 145000323,
+   "imtID": 98000095,
+   "nmUUID": "01bda0b1-f1f5-e6d0-558d-aa5d304a8399",
+   "subjectID": 3005,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3538",
+   "brand": "Хозтовары",
+   "title": "Сметка EKO 5120 пластмассовая с резьбой (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700247,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000193"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:19:19.000Z"
+  },
+  {
+   "nmID": 145000340,
+   "imtID": 98000100,
+   "nmUUID": "01bda0b1-9c84-9064-7707-78fc601fd09b",
+   "subjectID": 3006,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3539",
+   "brand": "Хозтовары",
+   "title": "Сметка EKO 5220 пластмассовая с ручкой (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700260,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000209"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:20:20.000Z"
+  },
+  {
+   "nmID": 145000357,
+   "imtID": 98000105,
+   "nmUUID": "01bda0b1-37e7-8264-f867-f3c426dd64d2",
+   "subjectID": 3000,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3540",
+   "brand": "Хозтовары",
+   "title": "Сметка с совком 5215 с резиной (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700273,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000216"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:21:21.000Z"
+  },
+  {
+   "nmID": 145000374,
+   "imtID": 98000110,
+   "nmUUID": "01bda0b1-5159-a77e-e247-7e49989496fc",
+   "subjectID": 3001,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3541",
+   "brand": "Хозтовары",
+   "title": "2010 Сметка с совком (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700286,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000223"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:22:22.000Z"
+  },
+  {
+   "nmID": 145000391,
+   "imtID": 98000115,
+   "nmUUID": "01bda0b1-1910-764e-2712-e989e927477b",
+   "subjectID": 3002,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3542",
+   "brand": "Хозтовары",
+   "title": "Совок для мусора LADY (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700299,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000230"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:23:23.000Z"
+  },
+  {
+   "nmID": 145000408,
+   "imtID": 98000120,
+   "nmUUID": "01bda0b1-e9d0-a7e1-efe5-6d8682e8f457",
+   "subjectID": 3003,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3543",
+   "brand": "Хозтовары",
+   "title": "Совок пластмассовый 5207 (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700312,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000247"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:24:24.000Z"
+  },
+  {
+   "nmID": 145000425,
+   "imtID": 98000125,
+   "nmUUID": "01bda0b1-4cdf-fedb-0fb4-affd6e5fa929",
+   "subjectID": 3004,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3544",
+   "brand": "Хозтовары",
+   "title": "Совок для мусора железный (Россия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700325,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000254"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:25:25.000Z"
+  },
+  {
+   "nmID": 145000442,
+   "imtID": 98000130,
+   "nmUUID": "01bda0b1-08d0-6dd8-daae-03b8ff8e512a",
+   "subjectID": 3005,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3545",
+   "brand": "Хозтовары",
+   "title": "Совок для мусора пластмассовый (\"POBEDA\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700338,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000261"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:26:26.000Z"
+  },
+  {
+   "nmID": 145000459,
+   "imtID": 98000135,
+   "nmUUID": "01bda0b1-7281-e3ff-cd78-6e9a7f5edcc2",
+   "subjectID": 3006,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3546",
+   "brand": "Хозтовары",
+   "title": "Швабра деревянная (Россия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700351,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000278"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:27:27.000Z"
+  },
+  {
+   "nmID": 145000476,
+   "imtID": 98000140,
+   "nmUUID": "01bda0b1-3776-a374-bfab-f22d689614df",
+   "subjectID": 3000,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3547",
+   "brand": "Хозтовары",
+   "title": "Швабра с ведром (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700364,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000285"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:28:28.000Z"
+  },
+  {
+   "nmID": 145000493,
+   "imtID": 98000145,
+   "nmUUID": "01bda0b1-eb82-f84e-9300-f92f6ba46d12",
+   "subjectID": 3001,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3548",
+   "brand": "Хозтовары",
+   "title": "Швабра-лентяйка (Россия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700377,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000292"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:29:29.000Z"
+  },
+  {
+   "nmID": 145000510,
+   "imtID": 98000150,
+   "nmUUID": "01bda0b1-abf2-f6dc-355f-6a35f2a9301c",
+   "subjectID": 3002,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3549",
+   "brand": "Хозтовары",
+   "title": "Швабра УМНИЧКА для мытья окон 25 см с телескопической ручкой",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700390,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000308"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:30:30.000Z"
+  },
+  {
+   "nmID": 145000527,
+   "imtID": 98000155,
+   "nmUUID": "01bda0b1-148a-e925-01f4-5260d3165eef",
+   "subjectID": 3003,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3550",
+   "brand": "Хозтовары",
+   "title": "Щетка для пола деревянная (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700403,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000315"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:31:31.000Z"
+  },
+  {
+   "nmID": 145000544,
+   "imtID": 98000160,
+   "nmUUID": "01bda0b1-6614-9138-b281-24576ac8ddbe",
+   "subjectID": 3004,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3551",
+   "brand": "Хозтовары",
+   "title": "Щетка для пола EKO пластмассовая с резьбой (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700416,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000322"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:32:32.000Z"
+  },
+  {
+   "nmID": 145000561,
+   "imtID": 98000165,
+   "nmUUID": "01bda0b1-7a6a-1c5f-a416-e2d80661797b",
+   "subjectID": 3005,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3552",
+   "brand": "Хозтовары",
+   "title": "Щетка для пола деревянная без резьбы (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700429,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000339"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:33:33.000Z"
+  },
+  {
+   "nmID": 145000578,
+   "imtID": 98000170,
+   "nmUUID": "01bda0b1-ed9a-0f55-bcdf-cf3876d36575",
+   "subjectID": 3006,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3553",
+   "brand": "Хозтовары",
+   "title": "Щетка для пола 5119 пластмассовая с резьбой  (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700442,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000346"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:34:34.000Z"
+  },
+  {
+   "nmID": 145000595,
+   "imtID": 98000175,
+   "nmUUID": "01bda0b1-97c6-6140-d6a1-9aff587c776a",
+   "subjectID": 3000,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3554",
+   "brand": "Хозтовары",
+   "title": "Щетка для пола 5151 пластмассовая с резьбой (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700455,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000353"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:35:35.000Z"
+  },
+  {
+   "nmID": 145000612,
+   "imtID": 98000180,
+   "nmUUID": "01bda0b1-9c0d-5283-74b9-dda872ee5ed8",
+   "subjectID": 3001,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3556",
+   "brand": "Хозтовары",
+   "title": "Щетка с палкой для уборки улиц деревянная (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700468,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000360"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:36:36.000Z"
+  },
+  {
+   "nmID": 145000629,
+   "imtID": 98000185,
+   "nmUUID": "01bda0b1-7157-3767-5642-81978a90c025",
+   "subjectID": 3002,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3557",
+   "brand": "Хозтовары",
+   "title": "Щетка 4432 для мытья посуды (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700481,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000377"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:37:37.000Z"
+  },
+  {
+   "nmID": 145000646,
+   "imtID": 98000190,
+   "nmUUID": "01bda0b1-11e9-c678-df8d-2386c193c7e1",
+   "subjectID": 3003,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3558",
+   "brand": "Хозтовары",
+   "title": "Щетка 4422 для мытья посуды (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700494,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000384"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:38:38.000Z"
+  },
+  {
+   "nmID": 145000663,
+   "imtID": 98000195,
+   "nmUUID": "01bda0b1-d553-5a2d-b1dc-93569c16c1a1",
+   "subjectID": 3004,
+   "subjectName": "Щетки, швабры, тряпки, совки, веники, метлы",
+   "vendorCode": "3559",
+   "brand": "Хозтовары",
+   "title": "Щетка для рук (Чехия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700507,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000391"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:39:39.000Z"
+  },
+  {
+   "nmID": 145000680,
+   "imtID": 98000200,
+   "nmUUID": "01bda0b1-59df-6bfe-1717-0eef4df0c6a6",
+   "subjectID": 3005,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3612",
+   "brand": "Хозтовары",
+   "title": "Ведро с отжимом ",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700520,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000407"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:40:40.000Z"
+  },
+  {
+   "nmID": 145000697,
+   "imtID": 98000205,
+   "nmUUID": "01bda0b1-31ef-9fd0-fc37-fd69ff5a1f40",
+   "subjectID": 3006,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3613",
+   "brand": "Хозтовары",
+   "title": "Ведро с отжимом (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700533,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000414"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:41:41.000Z"
+  },
+  {
+   "nmID": 145000714,
+   "imtID": 98000210,
+   "nmUUID": "01bda0b1-a3da-70c5-8e2f-54d61b5f4998",
+   "subjectID": 3000,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3615",
+   "brand": "Хозтовары",
+   "title": "Ершик туалетный (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700546,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000421"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:42:42.000Z"
+  },
+  {
+   "nmID": 145000731,
+   "imtID": 98000215,
+   "nmUUID": "01bda0b1-cf5f-5fe0-8583-e1a73f68c041",
+   "subjectID": 3001,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3616",
+   "brand": "Хозтовары",
+   "title": "Комплект МОП СЕТ из 3-х частей (ведро, отжим, швабра) (\"YORK",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700559,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000438"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:43:43.000Z"
+  },
+  {
+   "nmID": 145000748,
+   "imtID": 98000220,
+   "nmUUID": "01bda0b1-56c2-a80d-b177-6b6c7712f9d5",
+   "subjectID": 3002,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3620",
+   "brand": "Хозтовары",
+   "title": "Набор для подметания КОМБИ (щетка для подметания, совок, щет",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700572,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000445"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:44:44.000Z"
+  },
+  {
+   "nmID": 145000765,
+   "imtID": 98000225,
+   "nmUUID": "01bda0b1-da56-b975-896b-2ad9741004cf",
+   "subjectID": 3003,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3621",
+   "brand": "Хозтовары",
+   "title": "Набор для подметания ТАНДЕМ (щетка для подметания, совок) (\"",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700585,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000452"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:45:45.000Z"
+  },
+  {
+   "nmID": 145000782,
+   "imtID": 98000230,
+   "nmUUID": "01bda0b1-db6a-c9ba-d9fe-2fb71c272588",
+   "subjectID": 3004,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3629",
+   "brand": "Хозтовары",
+   "title": "Швабра с насадкой МОП SALSA (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700598,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000469"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:46:46.000Z"
+  },
+  {
+   "nmID": 145000799,
+   "imtID": 98000235,
+   "nmUUID": "01bda0b1-9a1d-2aa4-79f1-c54fa74832d4",
+   "subjectID": 3005,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3630",
+   "brand": "Хозтовары",
+   "title": "Насадка запасная к швабре МОП SALSA (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700611,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000476"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:47:47.000Z"
+  },
+  {
+   "nmID": 145000816,
+   "imtID": 98000240,
+   "nmUUID": "01bda0b1-87c5-f5c4-797f-25c564dacd52",
+   "subjectID": 3006,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3634",
+   "brand": "Хозтовары",
+   "title": "Щетка для мытья пола ШРОБЕР (деревянное основание, бежевый в",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700624,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000483"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:48:48.000Z"
+  },
+  {
+   "nmID": 145000833,
+   "imtID": 98000245,
+   "nmUUID": "01bda0b1-ca9a-3bed-8b79-0f4a92a87d60",
+   "subjectID": 3000,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3635",
+   "brand": "Хозтовары",
+   "title": "Щетка САРА для подметания (деревянное основание, без черенка",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700637,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000490"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:49:49.000Z"
+  },
+  {
+   "nmID": 145000850,
+   "imtID": 98000250,
+   "nmUUID": "01bda0b1-1321-ba17-79a9-2570d81d620a",
+   "subjectID": 3001,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3636",
+   "brand": "Хозтовары",
+   "title": "Щетка ГАЛИНА (зеленое основание, черный ворс) (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700650,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000506"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:50:50.000Z"
+  },
+  {
+   "nmID": 145000867,
+   "imtID": 98000255,
+   "nmUUID": "01bda0b1-ca0a-7b87-ca1f-5aeee1d47fd5",
+   "subjectID": 3002,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3638",
+   "brand": "Хозтовары",
+   "title": "Щетка КАРЛА с рукояткой (зеленое основание, темно-серый ворс",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700663,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000513"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:51:51.000Z"
+  },
+  {
+   "nmID": 145000884,
+   "imtID": 98000260,
+   "nmUUID": "01bda0b1-5983-174f-369a-c2a0932ef06a",
+   "subjectID": 3003,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3639",
+   "brand": "Хозтовары",
+   "title": "Щетка МАРТА (черное основание, темно-серый длинный ворс) (\"Y",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700676,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000520"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:52:52.000Z"
+  },
+  {
+   "nmID": 145000901,
+   "imtID": 98000265,
+   "nmUUID": "01bda0b1-2a79-5d86-c9f3-a9b83edd34a9",
+   "subjectID": 3004,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3640",
+   "brand": "Хозтовары",
+   "title": "Щетка ПАУЛА  с рукояткой (желтое основание, желтый ворс, жел",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700689,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000537"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:53:53.000Z"
+  },
+  {
+   "nmID": 145000918,
+   "imtID": 98000270,
+   "nmUUID": "01bda0b1-ee42-7a0f-1e16-a3b8a71b4136",
+   "subjectID": 3005,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3641",
+   "brand": "Хозтовары",
+   "title": "Щетка САБРИНА (комбинированный цвет: красный+черный) (\"YORK\"",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700702,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000544"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:54:54.000Z"
+  },
+  {
+   "nmID": 145000935,
+   "imtID": 98000275,
+   "nmUUID": "01bda0b1-57d0-6da4-dd9e-0f4060b26379",
+   "subjectID": 3006,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3642",
+   "brand": "Хозтовары",
+   "title": "Щетка ФРОНТЬЕРА с рукояткой (комбинированный цвет: черный+те",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700715,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000551"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:55:55.000Z"
+  },
+  {
+   "nmID": 145000952,
+   "imtID": 98000280,
+   "nmUUID": "01bda0b1-fb09-ab65-d496-fad9e02ddcfd",
+   "subjectID": 3000,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3643",
+   "brand": "Хозтовары",
+   "title": "Щетка ЭКОНОМИК с рукояткой (черное основание, темно-серый во",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700728,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000568"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:56:56.000Z"
+  },
+  {
+   "nmID": 145000969,
+   "imtID": 98000285,
+   "nmUUID": "01bda0b1-50f3-cc08-37d5-e59eb6087e50",
+   "subjectID": 3001,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3644",
+   "brand": "Хозтовары",
+   "title": "Щетка для мытья пола ТВИГИ (черное удлиненное основание, тем",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700741,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000575"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:57:57.000Z"
+  },
+  {
+   "nmID": 145000986,
+   "imtID": 98000290,
+   "nmUUID": "01bda0b1-0743-1d3a-2f0b-1903fabf518f",
+   "subjectID": 3002,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3645",
+   "brand": "Хозтовары",
+   "title": "Щетка для мытья пола ТВИНГО (синее удлиненное основание, бел",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700754,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000582"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:58:58.000Z"
+  },
+  {
+   "nmID": 145001003,
+   "imtID": 98000295,
+   "nmUUID": "01bda0b1-e4e9-5eb9-2fe6-1a75bbc0446b",
+   "subjectID": 3003,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3646",
+   "brand": "Хозтовары",
+   "title": "Щетка уличная (деревянное основание, без черенка) (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700767,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000599"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T09:59:59.000Z"
+  },
+  {
+   "nmID": 145001020,
+   "imtID": 98000300,
+   "nmUUID": "01bda0b1-455d-422d-a3dc-58f3973e4266",
+   "subjectID": 3004,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3649",
+   "brand": "Хозтовары",
+   "title": "Щетка уличная (деревянное основание, без черенка) (Сербия)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700780,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000605"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:01:00.000Z"
+  },
+  {
+   "nmID": 145001037,
+   "imtID": 98000305,
+   "nmUUID": "01bda0b1-70cb-0533-3049-4e5e791d389f",
+   "subjectID": 3005,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3651",
+   "brand": "Хозтовары",
+   "title": "Щетка утюжок для рук МАКСИ красная (\"YORK\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700793,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000612"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:02:01.000Z"
+  },
+  {
+   "nmID": 145001054,
+   "imtID": 98000310,
+   "nmUUID": "01bda0b1-11b3-ad50-be81-e2a2762961fb",
+   "subjectID": 3006,
+   "subjectName": "Хозяйственный инвентарь",
+   "vendorCode": "3652",
+   "brand": "Хозтовары",
+   "title": "Щетка-сметка + совок ЛЕНЬ НОВАЯ (на длинной ручке, серый) (\"",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700806,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000629"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:03:02.000Z"
+  },
+  {
+   "nmID": 145001071,
+   "imtID": 98000315,
+   "nmUUID": "01bda0b1-2eb8-ba42-c027-75ba956695ee",
+   "subjectID": 3000,
+   "subjectName": "Сушилки",
+   "vendorCode": "3957",
+   "brand": "Хозтовары",
+   "title": "Сушилка ЛИАНА (Россия), 1,3 м",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31700819,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000636"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:04:03.000Z"
+  },
+  {
+   "nmID": 145001088,
+   "imtID": 98000320,
+   "nmUUID": "01bda0b1-96e4-066e-f066-2e4fbfc7ae4c",
+   "subjectID": 3001,
+   "subjectName": "Подарочные сертификаты",
+   "vendorCode": "WB-СЕРТИФИКАТ-1",
+   "brand": "Хозтовары",
+   "title": "Сертификат 5000",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31710000,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2000000000015"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:05:04.000Z"
+  },
+  {
+   "nmID": 145001105,
+   "imtID": 98000325,
+   "nmUUID": "01bda0b1-9a81-eb0a-4dbf-8e313ec45dcb",
+   "subjectID": 3002,
+   "subjectName": "Доски гладильные",
+   "vendorCode": "WB-2741-2",
+   "brand": "Хозтовары",
+   "title": "Доска гладильная  НИКА 10+ (МЕТАЛЛ)",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31710013,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2000000000039"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:06:05.000Z"
+  },
+  {
+   "nmID": 145001122,
+   "imtID": 98000330,
+   "nmUUID": "01bda0b1-b3dd-c321-3577-15ae204c7a91",
+   "subjectID": 3003,
+   "subjectName": "Ведра",
+   "vendorCode": "BRISKO-X1",
+   "brand": "Хозтовары",
+   "title": "Ведро с отжимом BRISKO X1, 10 л",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31720000,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000643"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:07:06.000Z"
+  },
+  {
+   "nmID": 145001139,
+   "imtID": 98000335,
+   "nmUUID": "01bda0b1-c6a9-5198-c60f-cc33ae67fa7a",
+   "subjectID": 3004,
+   "subjectName": "Тазы",
+   "vendorCode": "TAZ-DEMO-35",
+   "brand": "Хозтовары",
+   "title": "Таз пластиковый 35 л",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31720013,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000650"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:08:07.000Z"
+  },
+  {
+   "nmID": 145001156,
+   "imtID": 98000340,
+   "nmUUID": "01bda0b1-88bb-4402-d750-1fc9fcbdfaa2",
+   "subjectID": 3005,
+   "subjectName": "Сушилки",
+   "vendorCode": "3958",
+   "brand": "Хозтовары",
+   "title": "Сушилка ЛИАНА (Россия), 1,4 м",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31730000,
+     "techSize": "S",
+     "wbSize": "S",
+     "skus": [
+      "2041000000667"
+     ]
+    },
+    {
+     "chrtID": 31730013,
+     "techSize": "M",
+     "wbSize": "M",
+     "skus": [
+      "2041000000674"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:09:08.000Z"
+  },
+  {
+   "nmID": 145001173,
+   "imtID": 98000345,
+   "nmUUID": "01bda0b1-c5a7-e70a-12f6-70e7afcc63b0",
+   "subjectID": 3006,
+   "subjectName": "Сушилки",
+   "vendorCode": "3959",
+   "brand": "Хозтовары",
+   "title": "Сушилка ЛИАНА (Россия), 1,5 м",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31740000,
+     "techSize": "0",
+     "wbSize": "",
+     "skus": [
+      "2041000000681"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:10:09.000Z"
+  },
+  {
+   "nmID": 145001190,
+   "imtID": 98000350,
+   "nmUUID": "01bda0b1-0d6d-a421-99a1-441214d17e0b",
+   "subjectID": 3000,
+   "subjectName": "Перчатки, рукавицы",
+   "vendorCode": "3004",
+   "brand": "Хозтовары",
+   "title": "Перчатки резиновые латексные (\"ПРОМИС\")",
+   "description": "",
+   "needKiz": false,
+   "photos": [],
+   "video": "",
+   "dimensions": {
+    "length": 30,
+    "width": 20,
+    "height": 10,
+    "weightBrutto": 1.2,
+    "isValid": true
+   },
+   "characteristics": [],
+   "sizes": [
+    {
+     "chrtID": 31750000,
+     "techSize": "S",
+     "wbSize": "S",
+     "skus": [
+      "2041000000698"
+     ]
+    },
+    {
+     "chrtID": 31750013,
+     "techSize": "L",
+     "wbSize": "L",
+     "skus": [
+      "2041000000704"
+     ]
+    },
+    {
+     "chrtID": 31750026,
+     "techSize": "XL",
+     "wbSize": "XL",
+     "skus": [
+      "2041000000711"
+     ]
+    }
+   ],
+   "tags": [],
+   "createdAt": "2026-10-02T09:00:00.000Z",
+   "updatedAt": "2026-11-01T10:11:10.000Z"
+  }
+ ],
+ "stocks": {
+  "507001": {
+   "31700000": 18,
+   "31700013": 52,
+   "31700026": 0,
+   "31700052": 48,
+   "31700065": 52,
+   "31700078": 0,
+   "31700104": 3,
+   "31700117": 8,
+   "31700130": 0,
+   "31700156": 33,
+   "31700169": 45,
+   "31700182": 0,
+   "31700208": 29,
+   "31700221": 44,
+   "31700234": 0,
+   "31700260": 42,
+   "31700273": 37,
+   "31700286": 0,
+   "31700312": 47,
+   "31700325": 36,
+   "31700338": 0,
+   "31700364": 45,
+   "31700377": 7,
+   "31700390": 0,
+   "31700416": 42,
+   "31700429": 31,
+   "31700442": 0,
+   "31700468": 7,
+   "31700481": 9,
+   "31700494": 0,
+   "31700520": 1,
+   "31700533": 29,
+   "31700546": 0,
+   "31700572": 32,
+   "31700585": 33,
+   "31700598": 0,
+   "31700624": 21,
+   "31700637": 16,
+   "31700650": 0,
+   "31700676": 2,
+   "31700689": 7,
+   "31700702": 0,
+   "31700728": 13,
+   "31700741": 32,
+   "31700754": 0,
+   "31700780": 8,
+   "31700793": 46,
+   "31700806": 0,
+   "31710000": 88,
+   "31710013": 8,
+   "31740000": 0,
+   "31750013": 6,
+   "31750026": 42
+  }
+ },
+ "restricted": [
+  31740000
+ ],
+ "orders": [
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 50400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_a6023bda373c04466610e18ec313ec5f",
+   "article": "1481",
+   "colorCode": "",
+   "rid": "15a777a809ecd572857c76df766d8eff",
+   "createdAt": "2026-11-20T07:46:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000001"
+   ],
+   "id": 3100000001,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000000,
+   "chrtId": 31700000,
+   "price": 40830,
+   "finalPrice": 40830,
+   "convertedPrice": 40830,
+   "convertedFinalPrice": 40830,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 50400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_a6023bda373c04466610e18ec313ec5f",
+   "article": "1481",
+   "colorCode": "",
+   "rid": "b472d412d20c4e3f63636b7babec5b19",
+   "createdAt": "2026-11-20T06:25:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000001"
+   ],
+   "id": 3100000004,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000000,
+   "chrtId": 31700000,
+   "price": 43801,
+   "finalPrice": 43801,
+   "convertedPrice": 43801,
+   "convertedFinalPrice": 43801,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 44700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_0f8cd7b90f20661579c80d09055125f9",
+   "article": "1482",
+   "colorCode": "",
+   "rid": "e6e1c774ce592a78055d329cdad2c1ac",
+   "createdAt": "2026-11-20T07:41:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000018"
+   ],
+   "id": 3100000007,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000017,
+   "chrtId": 31700013,
+   "price": 37486,
+   "finalPrice": 37486,
+   "convertedPrice": 37486,
+   "convertedFinalPrice": 37486,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 44700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_6e93d4eadb0efc42235e5b34a967644e",
+   "article": "1482",
+   "colorCode": "",
+   "rid": "b51ad7b047fed2a77ffe0f1acea54fab",
+   "createdAt": "2026-11-20T01:46:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000018"
+   ],
+   "id": 3100000010,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000017,
+   "chrtId": 31700013,
+   "price": 38615,
+   "finalPrice": 38615,
+   "convertedPrice": 38615,
+   "convertedFinalPrice": 38615,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 20900,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "Упакуйте в плёнку, пожалуйста",
+   "scanPrice": null,
+   "orderUid": "165918930_5bfa66eeb82fa772aee4cb1499618753",
+   "article": "1483",
+   "colorCode": "",
+   "rid": "8e0bd1aecc55656d1e3eb8c8fe53112c",
+   "createdAt": "2026-11-20T06:03:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000025"
+   ],
+   "id": 3100000013,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000034,
+   "chrtId": 31700026,
+   "price": 16528,
+   "finalPrice": 16528,
+   "convertedPrice": 16528,
+   "convertedFinalPrice": 16528,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 39800,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_5a4b9f3a730fbc6edeb8eace00770831",
+   "article": "1484",
+   "colorCode": "",
+   "rid": "c4d18626b03748a8249975449e29e891",
+   "createdAt": "2026-11-20T03:48:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000032"
+   ],
+   "id": 3100000016,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000051,
+   "chrtId": 31700039,
+   "price": 35591,
+   "finalPrice": 35591,
+   "convertedPrice": 35591,
+   "convertedFinalPrice": 35591,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 26300,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_e140e05a09c2be179098db205d29baab",
+   "article": "1485",
+   "colorCode": "",
+   "rid": "e80810173b001196bd7a31b241ce4104",
+   "createdAt": "2026-11-20T00:04:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000049"
+   ],
+   "id": 3100000019,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000068,
+   "chrtId": 31700052,
+   "price": 19905,
+   "finalPrice": 19905,
+   "convertedPrice": 19905,
+   "convertedFinalPrice": 19905,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 46600,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_36ad6f6842670ae48f64b396a3ad3207",
+   "article": "1486",
+   "colorCode": "",
+   "rid": "4ece532cfda3a7ba09c96e4420c1cae9",
+   "createdAt": "2026-11-20T05:01:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000056"
+   ],
+   "id": 3100000022,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000085,
+   "chrtId": 31700065,
+   "price": 39374,
+   "finalPrice": 39374,
+   "convertedPrice": 39374,
+   "convertedFinalPrice": 39374,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 50400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_1221865c4a921481e3d00ea64fcff9eb",
+   "article": "1487",
+   "colorCode": "",
+   "rid": "cc0849194f299bfe57699fc636a0c3ff",
+   "createdAt": "2026-11-20T02:45:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000063"
+   ],
+   "id": 3100000025,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000102,
+   "chrtId": 31700078,
+   "price": 38016,
+   "finalPrice": 38016,
+   "convertedPrice": 38016,
+   "convertedFinalPrice": 38016,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 265700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_cf18a9578103f3a8a97ba0aa76ea6a03",
+   "article": "2740",
+   "colorCode": "",
+   "rid": "5d70908ed735da886ac9871e53f935c8",
+   "createdAt": "2026-11-20T03:20:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000070"
+   ],
+   "id": 3100000028,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000119,
+   "chrtId": 31700091,
+   "price": 202912,
+   "finalPrice": 202912,
+   "convertedPrice": 202912,
+   "convertedFinalPrice": 202912,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 236600,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_8d9c79c4415e830e50dade618e9b62d7",
+   "article": "2741",
+   "colorCode": "",
+   "rid": "aa3113d6d0e660815129fb4a18d4ca17",
+   "createdAt": "2026-11-20T06:46:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000087"
+   ],
+   "id": 3100000031,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000136,
+   "chrtId": 31700104,
+   "price": 192996,
+   "finalPrice": 192996,
+   "convertedPrice": 192996,
+   "convertedFinalPrice": 192996,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 288300,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_359f4ffe64b78e8c5217b4be097cd816",
+   "article": "2744",
+   "colorCode": "",
+   "rid": "37af95476fc66272de18ee4eca514f31",
+   "createdAt": "2026-11-20T03:44:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000094"
+   ],
+   "id": 3100000034,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000153,
+   "chrtId": 31700117,
+   "price": 229735,
+   "finalPrice": 229735,
+   "convertedPrice": 229735,
+   "convertedFinalPrice": 229735,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 286000,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_5e8d5084ffb8101116c2a09eca036fbc",
+   "article": "2745",
+   "colorCode": "",
+   "rid": "450894e2477a1298a1ec5a083e0af469",
+   "createdAt": "2026-11-20T08:21:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000100"
+   ],
+   "id": 3100000037,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000170,
+   "chrtId": 31700130,
+   "price": 222672,
+   "finalPrice": 222672,
+   "convertedPrice": 222672,
+   "convertedFinalPrice": 222672,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 302500,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_4badf268b4c9c7370dea4d238ecd6c20",
+   "article": "2746",
+   "colorCode": "",
+   "rid": "00c28200bd3ec0c20a0a50f0720eda86",
+   "createdAt": "2026-11-20T04:37:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000117"
+   ],
+   "id": 3100000040,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000187,
+   "chrtId": 31700143,
+   "price": 282843,
+   "finalPrice": 282843,
+   "convertedPrice": 282843,
+   "convertedFinalPrice": 282843,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 63800,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_90275136737a2d0df3d4c20ce8ed632e",
+   "article": "3523",
+   "colorCode": "",
+   "rid": "db1f64ffbfbb54f182774a1b5961a696",
+   "createdAt": "2026-11-20T07:56:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000124"
+   ],
+   "id": 3100000043,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000204,
+   "chrtId": 31700156,
+   "price": 53378,
+   "finalPrice": 53378,
+   "convertedPrice": 53378,
+   "convertedFinalPrice": 53378,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 18600,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_4af22a7f51d13f26eb0d119b663f2cbd",
+   "article": "3532",
+   "colorCode": "",
+   "rid": "570b3c0bad679debb57b02bc9aa875ec",
+   "createdAt": "2026-11-20T01:19:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000131"
+   ],
+   "id": 3100000046,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000221,
+   "chrtId": 31700169,
+   "price": 15498,
+   "finalPrice": 15498,
+   "convertedPrice": 15498,
+   "convertedFinalPrice": 15498,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 19600,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_4cbd633e3f9b0ad5d14fb5c74051744b",
+   "article": "3533",
+   "colorCode": "",
+   "rid": "ddc18f571aa95defcbb8697948a964d6",
+   "createdAt": "2026-11-20T00:01:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000148"
+   ],
+   "id": 3100000049,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000238,
+   "chrtId": 31700182,
+   "price": 17745,
+   "finalPrice": 17745,
+   "convertedPrice": 17745,
+   "convertedFinalPrice": 17745,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 24500,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_cb500244b52b9735e4985c6f0c5a1a64",
+   "article": "3534",
+   "colorCode": "",
+   "rid": "32c48f5f56a3d61226d37e510e4fd5c2",
+   "createdAt": "2026-11-20T01:38:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000155"
+   ],
+   "id": 3100000052,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000255,
+   "chrtId": 31700195,
+   "price": 22271,
+   "finalPrice": 22271,
+   "convertedPrice": 22271,
+   "convertedFinalPrice": 22271,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 45000,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_5b21302dc651e62a1d53c50be09486e7",
+   "article": "WB-СЕРТИФИКАТ-1",
+   "colorCode": "",
+   "rid": "907df122224fb02baec0df6cbfa144d7",
+   "createdAt": "2026-11-20T07:20:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2000000000015"
+   ],
+   "id": 3100000055,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145001088,
+   "chrtId": 31710000,
+   "price": 37088,
+   "finalPrice": 37088,
+   "convertedPrice": 37088,
+   "convertedFinalPrice": 37088,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 50400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_a757daaaa141dfbf5750ec1b29fe7274",
+   "article": "UNKNOWN-777",
+   "colorCode": "",
+   "rid": "0c332cd1a0d57fc2b77d214f5029b510",
+   "createdAt": "2026-11-19T23:53:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2049999999993"
+   ],
+   "id": 3100000058,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000000,
+   "chrtId": 31700000,
+   "price": 47831,
+   "finalPrice": 47831,
+   "convertedPrice": 47831,
+   "convertedFinalPrice": 47831,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 15100,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_80650d086526bdae3ab8f8e4fdf14766",
+   "article": "3535",
+   "colorCode": "",
+   "rid": "8b41d5f92bb4f84f50ac9214b07e2d90",
+   "createdAt": "2026-11-20T01:45:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000162"
+   ],
+   "id": 3100000061,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000272,
+   "chrtId": 31700208,
+   "price": 13861,
+   "finalPrice": 13861,
+   "convertedPrice": 13861,
+   "convertedFinalPrice": 13861,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": true,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 73600,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_9a50f7514a89ed0fb0507b9285127e3a",
+   "article": "3536",
+   "colorCode": "",
+   "rid": "4bd78842183517099604744cef34b36f",
+   "createdAt": "2026-11-20T03:06:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000179"
+   ],
+   "id": 3100000064,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000289,
+   "chrtId": 31700221,
+   "price": 2465,
+   "finalPrice": 2465,
+   "convertedPrice": 69016,
+   "convertedFinalPrice": 69016,
+   "currencyCode": 933,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 62300,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_fca4ed018d97849fed3aad47898bd01c",
+   "article": "3958",
+   "colorCode": "",
+   "rid": "c8882325dbacd77937ec6146ed4eed08",
+   "createdAt": "2026-11-20T05:41:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000667"
+   ],
+   "id": 3100000067,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145001156,
+   "chrtId": 31730000,
+   "price": 55694,
+   "finalPrice": 55694,
+   "convertedPrice": 55694,
+   "convertedFinalPrice": 55694,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 64300,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_1c58fccd800d4780b673b86811b78685",
+   "article": "3959",
+   "colorCode": "",
+   "rid": "db1a63152cf4f3927fea44369f0aea02",
+   "createdAt": "2026-11-20T08:19:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000681"
+   ],
+   "id": 3100000070,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145001173,
+   "chrtId": 31740000,
+   "price": 59406,
+   "finalPrice": 59406,
+   "convertedPrice": 59406,
+   "convertedFinalPrice": 59406,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 46400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_b2c583e1df11d240aa75927a6eb1cdf0",
+   "article": "3004",
+   "colorCode": "",
+   "rid": "26b9eea6a87c5b9b3dd388a592909c6c",
+   "createdAt": "2026-11-20T05:40:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000711"
+   ],
+   "id": 3100000073,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145001190,
+   "chrtId": 31750026,
+   "price": 42658,
+   "finalPrice": 42658,
+   "convertedPrice": 42658,
+   "convertedFinalPrice": 42658,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 18300,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_1828341e1314918d81134d1c7b029675",
+   "article": "3539",
+   "colorCode": "",
+   "rid": "cfd75b11d7d1d54f1d9c0fccd2bbd8fa",
+   "createdAt": "2026-11-18T09:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000209"
+   ],
+   "id": 3100000076,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000340,
+   "chrtId": 31700260,
+   "price": 14822,
+   "finalPrice": 14822,
+   "convertedPrice": 14822,
+   "convertedFinalPrice": 14822,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 32200,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_79441a6c216c08468f8005924e6a076a",
+   "article": "3540",
+   "colorCode": "",
+   "rid": "ce991a6d28cfbcbc5b08f37aafbcfc00",
+   "createdAt": "2026-11-17T08:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000216"
+   ],
+   "id": 3100000079,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000357,
+   "chrtId": 31700273,
+   "price": 28700,
+   "finalPrice": 28700,
+   "convertedPrice": 28700,
+   "convertedFinalPrice": 28700,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 37700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_88f9a2334ce90157f751fd6d200bf1b9",
+   "article": "3541",
+   "colorCode": "",
+   "rid": "353d2de51319d1db5af137fee79491bf",
+   "createdAt": "2026-11-16T07:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000223"
+   ],
+   "id": 3100000082,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000374,
+   "chrtId": 31700286,
+   "price": 29956,
+   "finalPrice": 29956,
+   "convertedPrice": 29956,
+   "convertedFinalPrice": 29956,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 56800,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_851da0c5e20bce0cc8e7f53f2a382e87",
+   "article": "3542",
+   "colorCode": "",
+   "rid": "8ac49e56e538485060e17d17a6ccccc0",
+   "createdAt": "2026-11-15T06:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000230"
+   ],
+   "id": 3100000085,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000391,
+   "chrtId": 31700299,
+   "price": 51968,
+   "finalPrice": 51968,
+   "convertedPrice": 51968,
+   "convertedFinalPrice": 51968,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 16700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_12c10b2314ac092f7d1ffaa76251f119",
+   "article": "3543",
+   "colorCode": "",
+   "rid": "becc165eba9fb5fbd873590e9881c6c4",
+   "createdAt": "2026-11-14T05:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000247"
+   ],
+   "id": 3100000088,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000408,
+   "chrtId": 31700312,
+   "price": 15824,
+   "finalPrice": 15824,
+   "convertedPrice": 15824,
+   "convertedFinalPrice": 15824,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 23000,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_f95cf043d0f21e12ff0bd54c3fb5216d",
+   "article": "3544",
+   "colorCode": "",
+   "rid": "f8b2df8c811873dcbcc58e3b6f3d542f",
+   "createdAt": "2026-11-13T04:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000254"
+   ],
+   "id": 3100000091,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000425,
+   "chrtId": 31700325,
+   "price": 17726,
+   "finalPrice": 17726,
+   "convertedPrice": 17726,
+   "convertedFinalPrice": 17726,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 10500,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_6258f18ab1b8ed7734f728de5378f4d1",
+   "article": "3545",
+   "colorCode": "",
+   "rid": "69c7ff7f4f390e443a8f5cdfdbbf8c58",
+   "createdAt": "2026-11-12T03:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000261"
+   ],
+   "id": 3100000094,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000442,
+   "chrtId": 31700338,
+   "price": 8915,
+   "finalPrice": 8915,
+   "convertedPrice": 8915,
+   "convertedFinalPrice": 8915,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 7000,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_d5970de69be4f6c11bc16972e2e284f8",
+   "article": "3546",
+   "colorCode": "",
+   "rid": "6cc9d05421a453541af3a1bade1ddea6",
+   "createdAt": "2026-11-18T02:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000278"
+   ],
+   "id": 3100000097,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000459,
+   "chrtId": 31700351,
+   "price": 6489,
+   "finalPrice": 6489,
+   "convertedPrice": 6489,
+   "convertedFinalPrice": 6489,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 120100,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_872ea0c7585d7a1cda984ee06551961c",
+   "article": "3547",
+   "colorCode": "",
+   "rid": "a7fd457f8468cfc0ed7533cded81bffd",
+   "createdAt": "2026-11-17T01:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000285"
+   ],
+   "id": 3100000100,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000476,
+   "chrtId": 31700364,
+   "price": 103683,
+   "finalPrice": 103683,
+   "convertedPrice": 103683,
+   "convertedFinalPrice": 103683,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 22400,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_91759e4bfe2a3812ba54687a44efa665",
+   "article": "3548",
+   "colorCode": "",
+   "rid": "a0fe5a78683d3d0bfad9b7cb07e177d4",
+   "createdAt": "2026-11-16T00:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000292"
+   ],
+   "id": 3100000103,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000493,
+   "chrtId": 31700377,
+   "price": 17437,
+   "finalPrice": 17437,
+   "convertedPrice": 17437,
+   "convertedFinalPrice": 17437,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 43100,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_ca5e1ccf04fb0a25b9265692c557b772",
+   "article": "3549",
+   "colorCode": "",
+   "rid": "9044e83f1e50c942ed41eeef03a9e0af",
+   "createdAt": "2026-11-14T23:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000308"
+   ],
+   "id": 3100000106,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000510,
+   "chrtId": 31700390,
+   "price": 38172,
+   "finalPrice": 38172,
+   "convertedPrice": 38172,
+   "convertedFinalPrice": 38172,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 34200,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_fd0482a26fcbffa5d88406f01dacf2f1",
+   "article": "3550",
+   "colorCode": "",
+   "rid": "8e43823fdcac4f894f9f3ca8178a4ef2",
+   "createdAt": "2026-11-13T22:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000315"
+   ],
+   "id": 3100000109,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000527,
+   "chrtId": 31700403,
+   "price": 31143,
+   "finalPrice": 31143,
+   "convertedPrice": 31143,
+   "convertedFinalPrice": 31143,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 30700,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_d56dad8a0c261af8a3a9aae97aa932b6",
+   "article": "3551",
+   "colorCode": "",
+   "rid": "e5899673729cc9a01f267410646f096f",
+   "createdAt": "2026-11-12T21:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000322"
+   ],
+   "id": 3100000112,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000544,
+   "chrtId": 31700416,
+   "price": 28324,
+   "finalPrice": 28324,
+   "convertedPrice": 28324,
+   "convertedFinalPrice": 28324,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 60900,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_e0747910b0ab6928571b1b4690887d08",
+   "article": "3552",
+   "colorCode": "",
+   "rid": "61f49f2616bd19dea7af36fbde56874d",
+   "createdAt": "2026-11-11T20:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000339"
+   ],
+   "id": 3100000115,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000561,
+   "chrtId": 31700429,
+   "price": 49257,
+   "finalPrice": 49257,
+   "convertedPrice": 49257,
+   "convertedFinalPrice": 49257,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 45500,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_72f8a8c1a2aa8c9516c912ed52b8032a",
+   "article": "3553",
+   "colorCode": "",
+   "rid": "0f7e532a46c88425c90d14c8e8f8076a",
+   "createdAt": "2026-11-17T19:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000346"
+   ],
+   "id": 3100000118,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000578,
+   "chrtId": 31700442,
+   "price": 37608,
+   "finalPrice": 37608,
+   "convertedPrice": 37608,
+   "convertedFinalPrice": 37608,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  },
+  {
+   "address": null,
+   "ddate": "",
+   "sellerDate": "25.11.2026",
+   "salePrice": 34200,
+   "requiredMeta": [],
+   "optionalMeta": [],
+   "deliveryType": "fbs",
+   "comment": "",
+   "scanPrice": null,
+   "orderUid": "165918930_7b9fb6f5c87b5cf7c5ce80754332744a",
+   "article": "3554",
+   "colorCode": "",
+   "rid": "ee99711a8b6ab10edc32fda74ce33c0d",
+   "createdAt": "2026-11-16T18:00:00Z",
+   "offices": [
+    "Подольск"
+   ],
+   "skus": [
+    "2041000000353"
+   ],
+   "id": 3100000121,
+   "warehouseId": 507001,
+   "officeId": 15,
+   "nmId": 145000595,
+   "chrtId": 31700455,
+   "price": 28164,
+   "finalPrice": 28164,
+   "convertedPrice": 28164,
+   "convertedFinalPrice": 28164,
+   "currencyCode": 643,
+   "convertedCurrencyCode": 643,
+   "cargoType": 1,
+   "crossBorderType": 0,
+   "isZeroOrder": false,
+   "isPickupPointShipmentAllowed": true,
+   "options": {
+    "isB2B": false
+   }
+  }
+ ],
+ "statuses": {
+  "3100000001": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000004": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000007": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000010": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000013": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000016": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000019": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000022": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000025": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000028": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000031": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000034": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000037": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000040": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000043": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000046": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000049": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000052": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000055": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000058": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000061": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000064": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000067": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000070": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000073": {
+   "supplierStatus": "new",
+   "wbStatus": "waiting"
+  },
+  "3100000076": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000079": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000082": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000085": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000088": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000091": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000094": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000097": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000100": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000103": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000106": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000109": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000112": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000115": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  },
+  "3100000118": {
+   "supplierStatus": "confirm",
+   "wbStatus": "sorted"
+  },
+  "3100000121": {
+   "supplierStatus": "complete",
+   "wbStatus": "sold"
+  }
+ }
+}
